@@ -16,6 +16,9 @@ Create a Python script to visualise the weather of over 500 cities of varying di
 
 Linear regression is used to prove how the weather changes (or doesn't) depending on proximity to the equator.
 
+![image](https://github.com/Borruu/python-api-challenge/assets/112932520/b999c2f3-eaa2-4f5f-b9b2-885277955646)
+
+
 ### Part 2: VacationPy
 Show how weather data can be used to plan future vacations using the [Geoapify API](https://www.geoapify.com/) and the [geoViews Python library](https://geoviews.org/).
 1. Create a map that displays a point for every city in the `city_data_df` DataFrame as shown in the following image. The size of the point indicates the humidity in each city.
